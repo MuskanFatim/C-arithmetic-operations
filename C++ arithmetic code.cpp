@@ -4,11 +4,11 @@ using namespace std;
 int main()
  {
 	// variable declaration
-     int num1, num2; 
-     int sum, sub, mult, mod; 
-     float div;
+        int num1, num2; 
+        int sum, sub, mult, mod; 
+        float div;
 
-    // take input from user
+       // take input from user
 
 	cout << "Enter first number : ";
 	cin >> num1;
